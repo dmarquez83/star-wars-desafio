@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+body.login {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgb(104, 145, 162), rgb(23, 162, 184));
+}
+
+$theme-colors: (
+  "primary": $cyan
+);
